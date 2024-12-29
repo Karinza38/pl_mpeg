@@ -1,4 +1,4 @@
-# PL_MPEG - MPEG1 Video decoder, MP2 Audio decoder, MPEG-PS demuxer
+ PL_MPEG - MPEG1 Video decoder, MP2 Audio decoder, MPEG-PS demuxer
 
 Single-file MIT licensed library for C/C++
 
